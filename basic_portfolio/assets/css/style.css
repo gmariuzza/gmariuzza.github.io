@@ -1,0 +1,182 @@
+body{
+ margin:0;
+ padding:0;
+ line-height: 150%;
+}
+
+.topheader{
+	width:100%;
+	height:auto;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background-color: #ffffff;
+	height:64px;
+}
+
+#header-name{
+	background-color: #4aaaa5;
+	position: relative;
+	color:white;
+	text-align: center;
+	margin:0;
+	padding:20px;
+	width:300px;
+	float:left;
+	margin-left: 150px;
+}
+
+.topheader a{
+	float:right;
+	position:relative;
+	margin-right: 50px;
+	padding-top: 20px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.maincontent{
+	background-color:#dddddd;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	width:100%;
+	height: 887.23px;
+	padding-top: 25px;
+	border-color: #dddddd
+	border:2px;
+}
+
+#content{  
+	width:650px;
+	background-color:white;
+	color:#777777;
+	height: auto;
+	float:left;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	margin-left: 10%;
+}
+
+#about-me{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color:#4aaaa5;
+	margin-left: 3%;
+}
+
+.maincontent p{
+	margin:0;
+}
+
+.sidebar{
+	float: right;
+	width:270px;
+	position:relative;
+	background-color: white;
+	color:#4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	margin-right: 28%;
+}
+
+.sidebar h2{
+	text-align:center;
+}
+
+.sidebar a{
+	display: inline-block;
+	width:22%;
+	margin-left: -5px;
+}
+
+.footer{
+	position:fixed;
+  	bottom: 0;
+  	left: 0;
+  	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  	background-color: #666666;
+  	width: 100%;
+  	color: #777777;
+  	text-align: center;
+  	margin:0;
+  	height:50px;
+  	line-height: 300%;
+  	border-top-color: #4aaaa5;
+  	border-top-width: 5px;
+  	border-style: solid;
+  	border-bottom: 0px;
+  	border-color: #4aaaa5;
+  	border-left:0px;
+  	border:right0px;
+}
+
+.btn{
+	color: white;
+	background-color: #4aaaa5;
+	width:80px;
+	height: 20px;
+}
+
+.maincontent img{
+    width: 150px;
+    height: auto;
+    margin-left: 50px;
+    margin-bottom: 25px;
+}
+
+#greg{
+	float:left;
+	position:relative;
+	width:200px;
+	height: auto;
+	margin-left: 0px;
+}
+
+#aboutme{
+	color:white;
+	background-color: #4aaaa5;
+	width:200px;
+}
+
+#test{
+	background-color: #4aaaa5;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 45px;
+    position: absolute;
+    text-align: center;
+}
+
+#test1{
+	background-color: #4aaaa5;
+    width: 150px;
+    margin-left: 254px;
+    margin-top: 45px;
+    position: absolute;
+    text-align: center;
+}
+#test2{
+	background-color: #4aaaa5;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 45px;
+    position: absolute;
+    text-align: center;
+}
+
+#test3
+{
+    background-color: #4aaaa5;
+    width: 150.5px;
+    margin-left: 254px;
+    margin-top: -60px;
+    position: absolute;
+    text-align: center;
+}
+
+#test4{
+	background-color: #4aaaa5;
+    width: 150px;
+    margin-left: 459px;
+    margin-top: -166px;
+    position: absolute;
+    text-align: center;
+}
+	
+
+.maincontent form{
+	margin-left: 4%;
+}
